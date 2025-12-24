@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaberkornEL.Sprint0.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GaberkornEL.Sprint0.Task7.V0.Lib", "Tyuiu.GaberkornEL.Sprint0.Task7.V0.Lib\Tyuiu.GaberkornEL.Sprint0.Task7.V0.Lib.csproj", "{DC3B643E-8602-4756-8651-F8707ACD57FB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{9F1FBF7E-1FC8-4A3E-BB59-D496A5D4E04F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
